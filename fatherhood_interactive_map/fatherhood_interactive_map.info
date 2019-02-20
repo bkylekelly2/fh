@@ -1,0 +1,7 @@
+name = Fatherhood Interactive Map
+description = This module provides an interactive map to locate Fatherhood services.
+core = 7.x
+package = Fatherhood
+version = "7.x-1.x-dev"
+project = "fatherhood"
+datestamp = "22:37:00 12/Feb/2019"
